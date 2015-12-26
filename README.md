@@ -1,9 +1,9 @@
----
-title: "WearableExercise"
-author: "Dan Hunter"
-date: "Thursday, December 24, 2015"
-return(output): html_document
----
+
+#title: "WearableExercise"
+##author: "Dan Hunter"
+###date: "Thursday, December 24, 2015"
+###return(output): html_document
+
 
 ## untidy set
    These data consist of :
