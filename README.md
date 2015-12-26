@@ -36,7 +36,7 @@ return(output): html_document
  eliminate characters "()-," 
  * The column names are put in alphabetical order so mean and standard deviation
  are together
- *return(output): a data set with the proper descriptive names containing only mean,std data  (66 attributes)
+ * return(output): a data set with the proper descriptive names containing only mean,std data  (66 attributes)
 
 
 ### 2. The get_tidy_set function
