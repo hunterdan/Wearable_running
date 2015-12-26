@@ -1,10 +1,10 @@
-
-#title: "WearableExercise"
-##author: "Dan Hunter"
-###date: "Thursday, December 24, 2015"
-###return(output): html_document
-
-
+---
+title: "WearableExercise"
+author: "Dan Hunter"
+date: "Thursday, December 24, 2015"
+return(output): html_document
+---
+# "Wearable Devices Exercise Data summarized"
 ## untidy set
    These data consist of :
    *  X_train.txt, X_test.txt the raw data with no headers and no identification features
